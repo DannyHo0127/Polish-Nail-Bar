@@ -227,13 +227,7 @@
 
   .main__content h2 {
     font-size: 1rem;
-    background-color: #F8D8D1;
-    background-image: linear-gradient(to top, #b721ff 0%, #1050ee 100%);
-    background-size: 100%;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
+    color: black;
   }
 
   .main__content p {
